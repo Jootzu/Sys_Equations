@@ -8,3 +8,7 @@ Version(s) future(s): Ajouter une troisième équation avec une inconnue Z !
 EN: Small program that computes the unknowns x and y of a linear equation system using 
 the method of linear combinations. 
 Future version(s): Add a third equation with an unknown Z ! 
+
+
+
+https://streamable.com/466nuf
